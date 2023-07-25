@@ -1,0 +1,10 @@
+* cl-data-format-validation
+
+a library for Common Lisp providing a consistent regular interface for converting (and validating) external data (in the form of strings usually) into internal data types and for formatting internal data back into external presentable strings, all according to a conversion or type specification.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/willijar/cl-data-format-validation.git   |
+| commit  | 95d4476  |
+| systems | cl-data-format-validation |
+|---------+-------------------------------------------|
+
